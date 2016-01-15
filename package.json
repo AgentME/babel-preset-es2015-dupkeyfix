@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-es2015-dupkeyfix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Babel preset for all es2015 plugins plus duplicate key bugfix.",
   "main": "index.js",
   "dependencies": {
@@ -25,6 +25,13 @@
     "babel-plugin-transform-es2015-typeof-symbol": "^6.3.13",
     "babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
     "babel-plugin-transform-regenerator": "^6.3.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AgentME/babel-preset-es2015-dupkeyfix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AgentME/babel-preset-es2015-dupkeyfix/issues"
   },
   "author": "Chris Cowan <agentme49@gmail.com>",
   "license": "MIT"
